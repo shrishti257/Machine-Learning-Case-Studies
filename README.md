@@ -1,7 +1,7 @@
 # Machine-Learning-Case-Studies
 Machine Learning projects using Python, NLP and Clustering
 
-#Case Study 3
+# Case Study 3
 # Sentiment Analysis on Product Reviews using BERT and LSTM
 
 ## Project Overview
@@ -33,7 +33,7 @@ Models are evaluated using accuracy, precision, recall, F1-score, and confusion 
 2. Install the required libraries.
 3. Run the cells sequentially.
 
-#Case Study 4
+# Case Study 4
 # E-Commerce Customer Segmentation using Machine Learning
 
 ## Project Overview
